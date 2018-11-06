@@ -6,6 +6,10 @@ Rails.application.routes.draw do
       get '/students/:id', to: 'students#show'
       post '/students', to: 'students#create'
       delete '/students', to: 'students#delete'
+
+      get '/cohorts', to: 'cohorts#index'
+      get '/cohorts/:id', to: 'cohorts#show'
+      post '/cohorts', to: 'cohorts#create'
     end
   end
 end
