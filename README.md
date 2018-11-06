@@ -1,24 +1,4 @@
-# README
+# Feelings API
+This serves as the backend of a mini-blog app called feelings. Students are members of cohorts, and students can have many feelings during the course of their time using this app.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This API is powered by Ruby on Rails and Postgres.
